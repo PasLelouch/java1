@@ -16,7 +16,7 @@ public class Z2 {
         list.add(3);
         list.add("Конец");
         return list;
-    }
+    }1
     public static void printList(Deque<Object> list){
         for(Object el: list){
             System.out.printf(el + " ");
